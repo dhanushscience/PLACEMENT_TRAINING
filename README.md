@@ -21,3 +21,26 @@ git --version
 ```
 git pull origin main
 ```
+
+<details>
+<summary>## GIT COMMANDS:</summary>
+<br>
+1. To know the commit status of files
+```
+git status
+```
+
+2. To clone the repo into local machin
+```
+git clone https://github.com/dhanushscience/PLACEMENT_TRAINING
+```
+
+3. To know git version
+```
+git --version
+```
+4. To download the Updated repo from git server
+```
+git pull origin main
+```
+</details>
