@@ -21,3 +21,12 @@ git --version
 ```
 git pull origin main
 ```
+
+5. To configure username and mail in Github
+```
+git config --global user.name "dhanushscience"
+git config --global user.email "contactdhanush@proton.me"
+
+```
+
+
