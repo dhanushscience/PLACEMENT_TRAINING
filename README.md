@@ -17,3 +17,7 @@ git clone https://github.com/dhanushscience/PLACEMENT_TRAINING
 ```
 git --version
 ```
+4. To download the Updated repo from git server
+```
+git pull origin main
+```
