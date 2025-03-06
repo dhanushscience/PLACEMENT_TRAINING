@@ -26,7 +26,6 @@ git pull origin main
 ```
 git config --global user.name "dhanushscience"
 git config --global user.email "contactdhanush@proton.me"
-
 ```
 
 
