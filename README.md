@@ -13,4 +13,7 @@ git status
 git clone https://github.com/dhanushscience/PLACEMENT_TRAINING
 ```
 
-3. 
+3. To know git version
+```
+git --version
+```
