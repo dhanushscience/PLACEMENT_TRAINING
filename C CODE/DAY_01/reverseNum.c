@@ -16,7 +16,6 @@ You cannot use strings or arrays for storing the number.
 ************************************************************************************/
 
 #include<stdio.h>
-#include <ctype.h>
 
 int main()
 {
