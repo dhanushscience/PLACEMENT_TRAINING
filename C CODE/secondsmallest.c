@@ -1,23 +1,9 @@
 #include <stdio.h>
-
-int main(void) 
+int main()
 {
-    unsigned int n;
-    printf("Enter a number: ");
-    scanf("%u", &n);
-
-    while (n > 9)
-        n = (n % 10) + (n / 10);
-
-    printf("Lucky number: %u\n", n);
-    return 0;
+    int p=10, q=100, r=6;
+    r = p > 10;
+    q++; 
+    
+    printf("%d and %d", q, r);
 }
-
-
-/*
-    888
-
-    88 + 08 = 96
-    09 + 06 = 15
-    01 + 05 = 06
-*/
