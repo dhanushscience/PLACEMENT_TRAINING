@@ -17,6 +17,5 @@ def disconnect_db(connection):
     connection.close()
     print('DB disconnected')
 
-# Now it will work properly
 connection = connect_db()
 disconnect_db(connection)
